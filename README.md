@@ -52,7 +52,8 @@ Copy the .env.example file to .env:
 
 ### 5. Set Up the Database
  - Create a MySQL database for the application.
- - Run the migrations:``` bash
+ - Run the migrations:
+   ``` bash
    php artisan migrate
    ```
 
